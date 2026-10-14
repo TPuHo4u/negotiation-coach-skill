@@ -70,5 +70,8 @@
 - The Opus distiller lost its API connection mid-run; the agent process survived with 230k tokens of context, so a
   `SendMessage` «продолжай» resumed it without re-reading.
 
+### Publication
+- Owner's word 2026-10-14 evening: first commit e5b70dc pushed to the private repo `TPuHo4u/negotiation-coach-skill`.
+
 ### Next
-- Owner: use it on a real case; refine phrasing where the live mode feels off. Commit when the owner says so.
+- Owner: use it on a real case; refine phrasing where the live mode feels off.
